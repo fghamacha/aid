@@ -1,6 +1,8 @@
 # Introduction
 
-By following thos steps, you will be able to display a message for happy Aïd in linux environment
+By following those steps, you will be able to display a message for happy Aïd in linux environment
+
+![alt text](https://github.com/fghamacha/aid/blob/master/Aid-mubarak.gif?raw=true)
 
 1. Create an image containing your message
 
