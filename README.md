@@ -28,9 +28,19 @@ Copy the ASCSII art to the file aid-mubarak.sh in the line juste next  cat << "E
 esc then wq! with vim 
 
 6. give x rights to your file 
-chmod aid-mubarak.sh
+
+<!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
+
+    $ chmod 770 aid-mubarak.sh
+
+<!--endsec-->
 
 7. zoom out your command window if your ASCII art is to big 
 
 8. run your script 
-./aid-mubarak.sh
+
+<!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
+
+    $ ./aid-mubarak.sh
+
+<!--endsec-->
